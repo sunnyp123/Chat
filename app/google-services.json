@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34029877921",
+    "firebase_url": "https://myapp-5e91e.firebaseio.com",
+    "project_id": "myapp-5e91e",
+    "storage_bucket": "myapp-5e91e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34029877921:android:7d80ff61539d072e",
+        "android_client_info": {
+          "package_name": "com.developers.droidteam.chatbluetooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34029877921-dibv55f9lsnt38g8f69je464kg23810i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developers.droidteam.chatbluetooth",
+            "certificate_hash": "fa3c8b44077145d4cd824131f05d5b661394a3bf"
+          }
+        },
+        {
+          "client_id": "34029877921-gi7un3iae5ls2dkk0s0irqkrqnqipi14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxc3bLOwGz8S8-i9UVRE0sWhKvWm7a2zM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34029877921-gi7un3iae5ls2dkk0s0irqkrqnqipi14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
